@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/758112322482216838/114d7423d08b4836a2c1be644266d8de/artifacts
+end_time: 1746328722705
+entry_point_name: ''
+experiment_id: '758112322482216838'
+lifecycle_stage: active
+run_id: 114d7423d08b4836a2c1be644266d8de
+run_name: glamorous-moth-686
+run_uuid: 114d7423d08b4836a2c1be644266d8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746328722580
+status: 3
+tags: []
+user_id: manis

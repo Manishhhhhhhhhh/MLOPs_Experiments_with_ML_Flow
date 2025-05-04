@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/758112322482216838/62ebc790c47a407da534597f43296ccd/artifacts
+end_time: 1746396367353
+entry_point_name: ''
+experiment_id: '758112322482216838'
+lifecycle_stage: active
+run_id: 62ebc790c47a407da534597f43296ccd
+run_name: inquisitive-fowl-624
+run_uuid: 62ebc790c47a407da534597f43296ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746396366385
+status: 3
+tags: []
+user_id: manis
