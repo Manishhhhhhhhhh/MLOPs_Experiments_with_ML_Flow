@@ -4,6 +4,11 @@ from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_breast_cancer
 import pandas as pd
 import mlflow
+import dagshub
+
+dagshub.init(repo_owner='Manishhhhhhhhhh', repo_name='MLOPs_Experiments_with_ML_Flow', mlflow=True)
+
+mlflow.set_tracking_uri("https://dagshub.com/Manishhhhhhhhhh/MLOPs_Experiments_with_ML_Flow.mlflow")
 
 # Load the Breast Cancer dataset
 data = load_breast_cancer()
